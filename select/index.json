@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "このままずっと眠っていたい (Kotoha Ver.)",
+  "base_artist": "Kotoha",
+  "createdAt": "2025-12-05T13:42:20.557308Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "このままずっと眠っていたい (Kotoha Ver.)",
+      "artist": "Kotoha",
+      "has_synced": false,
+      "path": "select/pl_01_このままずっと眠っていたい_(Kotoha_Ver.)_Kotoha.txt"
+    }
+  ]
+}
